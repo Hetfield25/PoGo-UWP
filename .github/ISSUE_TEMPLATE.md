@@ -1,6 +1,6 @@
 ### **Device info:**
-- Phone type: (e.g. Lumia 950 XL)
-- App version: (e.g. 1.0.25)
+- Phone type: (Lumia 930)
+- App version: (1.0.25)
 
 ### **Actual behavior:**
 
